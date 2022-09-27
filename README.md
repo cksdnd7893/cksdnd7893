@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there안녕하세요 👋
+#### Hi there안녕하세요 👋
 
 <!-- <img src="https://img.shields.io/badge/언어-색상?style=flat-square&logo=simpleicons에서 로고 이름&logoColor=white"/> -->
 <h3 align="center">📚 공부중인 기술들 📚</h3>
