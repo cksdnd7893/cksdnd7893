@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://img.shields.io/badge/언어-색상?style=flat-square&logo=simpleicons에서 로고 이름&logoColor=white"/> -->
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/JAVA-00599C?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/C-A8B9CCC?style=flat-square&logo=C&logoColor=white"/>
-
+<h3 align="center">📚 공부중인 기술들 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-ffb13b?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
+</p>
+<h3 align="center">📚 한번이라도 써본 기술 📚</h3>
   <br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
