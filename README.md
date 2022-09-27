@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
 </p>
-<br><br>
+<br>
+
 #### 📚 공부중인 기술들 📚
 <p>
   <!-- <img src="https://img.shields.io/badge/언어-색상?style=flat-square&logo=simpleicons에서 로고 이름&logoColor=white"/> -->
