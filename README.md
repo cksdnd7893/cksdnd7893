@@ -28,7 +28,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C-ffb13b?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
 </p>
-<!-- <h3 align="center">📚 써본 기술 📚</h3>
-</p> -->
+<br><br>
+### 📚 써본 기술들 📚
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cksdnd7893&show_icons=true&theme=dark)
