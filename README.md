@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   ● 군복무로 인해 개발을 잠시 접어놨다 다시 펼쳐 하나하나 공부 중입니다.  
   ● 이전에 학습한 내용들을 되새기기 위해 기초부터 다시 공부하고 있습니다.
 <p>
-  <a href="https://www.instagram.com/chanung__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp</a>
+  <a href="https://www.instagram.com/__chanung/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp</a>
 </p>
 <br>
 
