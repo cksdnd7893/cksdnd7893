@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://img.shields.io/badge/언어-색상?style=flat-square&logo=simpleicons에서 로고 이름&logoColor=white"/> -->
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/JAVA-00599C?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/C-A8B9CCC?style=flat-square&logo=C&logoColor=white"/>
 
