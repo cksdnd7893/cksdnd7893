@@ -20,8 +20,8 @@ Here are some ideas to get you started:
   ● 이전에 학습한 내용들을 되새기기 위해 기초부터 다시 공부하고 있습니다.
 <br><br>
 
-#### 📚 공부중인 기술들 📚
-<p>
+<h3 align="center"> 📚 공부중인 기술들 📚 </h3>
+<p align="center">
   <!-- <img src="https://img.shields.io/badge/언어-색상?style=flat-square&logo=simpleicons에서 로고 이름&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -30,16 +30,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
 </p>
 
-#### 🖥 써본 기술들 🖥
-<p>
+<h3 align="center"> 🖥 써본 기술들 🖥 </h3>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
 </p>
 
-#### 🤝 Follow Me 🤝
-<p>
+<h3 align="center"> 🤝 Follow Me 🤝 </h3>
+<p align="center">
   <a href="https://www.instagram.com/__chanung/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
 </p>
 
-#### 💾 Github Stats 💾
+<h3 align="center"> 💾 Github Stats 💾 </h3>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cksdnd7893&show_icons=true&theme=swift)
