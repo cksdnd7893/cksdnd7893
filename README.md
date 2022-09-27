@@ -42,4 +42,6 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="center"> 💾 Github Stats 💾 </h3>
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cksdnd7893&show_icons=true&theme=swift)
+</div>
