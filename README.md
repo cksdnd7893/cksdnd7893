@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>### About Me 👋</h3>
+<h3About Me 👋</h3>
 <p>
-● 컴퓨터공학과 졸업 후 공부하고 있는 개발자 원찬웅입니다.<br>
-● 군복무로 인해 개발을 잠시 접어놨다 다시 펼쳐 하나하나 공부 중입니다.<br>
-● 이전에 학습한 내용들을 되새기기 위해 기초부터 다시 공부하고 있습니다.<br>
+&nbsp&nbsp&nbsp● 컴퓨터공학과 졸업 후 공부하고 있는 개발자 원찬웅입니다.<br>
+&nbsp&nbsp&nbsp● 군복무로 인해 개발을 잠시 접어놨다 다시 펼쳐 하나하나 공부 중입니다.<br>
+&nbsp&nbsp&nbsp● 이전에 학습한 내용들을 되새기기 위해 기초부터 다시 공부하고 있습니다.<br>
 </p>
 
 <!-- <img src="https://img.shields.io/badge/언어-색상?style=flat-square&logo=simpleicons에서 로고 이름&logoColor=white"/> -->
