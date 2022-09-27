@@ -20,7 +20,8 @@ Here are some ideas to get you started:
   ● 이전에 학습한 내용들을 되새기기 위해 기초부터 다시 공부하고 있습니다.
   
 
-<h3>📚 공부중인 기술들 📚</h3>
+<h3><br>📚 공부중인 기술들 📚</h3>
+---
 <p>
   <!-- <img src="https://img.shields.io/badge/언어-색상?style=flat-square&logo=simpleicons에서 로고 이름&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
