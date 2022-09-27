@@ -18,7 +18,6 @@ Here are some ideas to get you started:
   ● 컴퓨터공학과 졸업 후 공부하고 있는 개발자 원찬웅입니다.  
   ● 군복무로 인해 개발을 잠시 접어놨다 다시 펼쳐 하나하나 공부 중입니다.  
   ● 이전에 학습한 내용들을 되새기기 위해 기초부터 다시 공부하고 있습니다.
-<br>
 
 #### 📚 공부중인 기술들 📚
 <p>
@@ -29,16 +28,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
 </p>
-<br>
 
 #### 📚 써본 기술들 📚
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
 </p>
-<br>
 
-##### Follow Me
+#### Follow Me
 <p>
   <a href="https://www.instagram.com/__chanung/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
 </p>
