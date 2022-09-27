@@ -41,5 +41,5 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/__chanung/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
 </p>
 
-#### 💾 Github Stats 🤝
+#### 💾 Github Stats 💾
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cksdnd7893&show_icons=true&theme=swift)
