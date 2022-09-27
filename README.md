@@ -37,4 +37,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
 </p>
 
+##### Follow Me
+<p>
+  <a href="https://www.instagram.com/__chanung/"><img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=Instagram&logoColor=white"/>&nbsp</a>
+</p>
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cksdnd7893&show_icons=true&theme=dark)
